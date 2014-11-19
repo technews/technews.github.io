@@ -1,0 +1,27 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+  margin: 14px 10px;
+}
+.nav{
+  width: 100%;
+	background-color:#0989D7;
+	border-bottom: solid 2px #595959;
+	position: fixed;
+  z-index: 21;
+	
+}
+.panel-footer{text-align: right;}
+jumbotron{
+	padding-top: -344px;
+}
+.blue {
+    color: blue;
+}
