@@ -5,23 +5,26 @@
   padding: 14px 10px;
   text-transform: uppercase;
 }
-
 .nav li {
   display: inline;
   margin: 14px 10px;
 }
-.nav{
+.nav {
+  overflow: hidden;
+  height: 45px;
+  line-height: 45px;
+  position: fixed;
+  background: #333333;
+  margin-bottom: 0;
   width: 100%;
-	background-color:#0989D7;
-	border-bottom: solid 2px #595959;
-	position: fixed;
-  z-index: 21;
-	
+  z-index: 99;
 }
-.panel-footer{text-align: right;}
-jumbotron{
-	padding-top: -344px;
+.panel-footer {
+  text-align: right;
+}
+jumbotron {
+  padding-top: -344px;
 }
 .blue {
-    color: blue;
+  color: blue;
 }
