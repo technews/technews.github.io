@@ -33,35 +33,3 @@
 #hello {
   padding: 30px;
 }
-=======
-.nav a {
-  color: #5a5a5a;
-  font-size: 11px;
-  font-weight: bold;
-  padding: 14px 10px;
-  text-transform: uppercase;
-}
-.nav li {
-  display: inline;
-  margin: 14px 10px;
-}
-.nav {
-  overflow: hidden;
-  height: 45px;
-  line-height: 45px;
-  position: fixed;
-  background: #0989D7;
-  margin-bottom: 0;
-  width: 100%;
-  z-index: 99;
-}
-.panel-footer {
-  text-align: right;
-}
-jumbotron {
-  padding-top: -344px;
-}
-.blue {
-  color: blue;
-}
-
