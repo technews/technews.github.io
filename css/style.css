@@ -1,13 +1,28 @@
+<<<<<<< HEAD
 
 .nav a {
   color: #313131;
   font-size: 15px;
   font-weight: bold;
   padding: 20px 10px;
+||||||| merged common ancestors
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+=======
+.navbar a {
+
+  font-size: 11px;
+
+  margin-right: 16px;
+>>>>>>> 9da11b4a9656a934202ce73d7353475572fced7e
   text-transform: uppercase;
   text-decoration: none;
   font-family: inherit;
 }
+<<<<<<< HEAD
 .nav a:hover {
   color: white;
 }
@@ -27,9 +42,53 @@
 .panel-footer {
   text-align: right;
 }
-.blue {
-  color: #375dff;
+||||||| merged common ancestors
+.nav li {
+  display: inline;
+  margin: 14px 10px;
 }
+.nav {
+  overflow: hidden;
+  height: 45px;
+  line-height: 45px;
+  position: fixed;
+  background: #0989D7;
+  margin-bottom: 0;
+  width: 100%;
+  z-index: 99;
+}
+.panel-footer {
+  text-align: right;
+}
+jumbotron {
+  padding-top: -344px;
+}
+=======
+
+.panel-footer{text-align: right;}
+jumbotron{
+	padding-top: 344px;
+}
+>>>>>>> 9da11b4a9656a934202ce73d7353475572fced7e
+.blue {
+<<<<<<< HEAD
+  color: #375dff;
+||||||| merged common ancestors
+  color: blue;
+=======
+    color: blue;
+>>>>>>> 9da11b4a9656a934202ce73d7353475572fced7e
+}
+<<<<<<< HEAD
 #hello {
   padding: 30px;
 }
+||||||| merged common ancestors
+=======
+
+.mwh{
+  max-width: 150px;
+  max-height: 150px;
+
+}
+>>>>>>> 9da11b4a9656a934202ce73d7353475572fced7e

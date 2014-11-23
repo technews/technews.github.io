@@ -1,51 +1,35 @@
 <!DOCTYPE html>
 <html lang="fr">
-	<head>
+  <head>
 
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>theme page N</title>
-		<link rel="stylesheet" type="text/css" href="css/style.css">
-		<!-- Bootstrap CSS -->
-		<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>logiciel page 2</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 
-		
-	</head>
+  </head>
 
-	<body>
-		 <div class="nav">
-      <div class="container">
-        <ul class='pull-left'>
-          <li><a href="#">Name</a></li>
-          <li><a href="#">os</a></li>
-          <li><a href="#">logiciels</a></li>
-          <li><a href="#">jeux-video</a></li>
-          <li><a href="#">tutoriels</a></li>
-        </ul>
-        <ul class='pull-right'>
-       <li><a href="#">Sign Up</a></li>
-     <li><a href="#">Log In</a></li> 
-        </ul>
-      </div>
-    </div>
+  <body>
+     <?php require "header.php"; ?>
     <div class="jumbotron">
       <div class="container">
-        <!-- 1 -->
+        <!-- 7  -->
       <div class="panel panel-primary">
           <div class="panel-heading">
-            <h3 class="panel-title">OS</h3>
+            <h3 class="panel-title">IDMAN</h3>
           </div>
           <div class="panel-body">
             <div class="rows">
                <div class="col-md-4">
-                     <div class="thumbnail">
-                         <img src="images/mexico.png"  >
-                     </div>
+                     
+                         <img class="img-circle mwh" src="img/idman.png">
+                     
                </div> 
                <div class="col-md-8">
                      <div class="thumbnail">
-                         <img src="images/tokyo.png"   >
+                         <p>
                      </div>
                 </div> 
             </div>
@@ -55,21 +39,21 @@
             <span class="glyphicon glyphicon-chevron-right blue" aria-hidden="true"></span>
           </div>
         </div>
-        <!-- 2 -->
+        <!-- 8  -->
       <div class="panel panel-primary">
           <div class="panel-heading">
-            <h3 class="panel-title">OS</h3>
+            <h3 class="panel-title">AVIRA</h3>
           </div>
           <div class="panel-body">
             <div class="rows">
                <div class="col-md-4">
-                     <div class="thumbnail">
-                         <img src="images/mexico.png"  >
-                     </div>
+                     
+                         <img class="img-circle mwh" src="img/avira.png">
+                     
                </div> 
                <div class="col-md-8">
                      <div class="thumbnail">
-                         <img src="images/tokyo.png"   >
+                          <p>
                      </div>
                 </div> 
             </div>
@@ -79,21 +63,21 @@
             <span class="glyphicon glyphicon-chevron-right blue" aria-hidden="true"></span>
           </div>
         </div>
-        <!-- 3 -->
+        <!-- 9  -->
       <div class="panel panel-primary">
           <div class="panel-heading">
-            <h3 class="panel-title">OS</h3>
+            <h3 class="panel-title">EMULE</h3>
           </div>
           <div class="panel-body">
             <div class="rows">
                <div class="col-md-4">
-                     <div class="thumbnail">
-                         <img src="images/mexico.png"  >
-                     </div>
+                     
+                         <img class="img-circle mwh" src="img/emule.png">
+                    
                </div> 
                <div class="col-md-8">
                      <div class="thumbnail">
-                         <img src="images/tokyo.png"   >
+                          <p>
                      </div>
                 </div> 
             </div>
@@ -103,21 +87,21 @@
             <span class="glyphicon glyphicon-chevron-right blue" aria-hidden="true"></span>
           </div>
         </div>
-        <!-- 4 -->
+        <!-- 10  -->
       <div class="panel panel-primary">
           <div class="panel-heading">
-            <h3 class="panel-title">OS</h3>
+            <h3 class="panel-title">SAMSUNG KIES</h3>
           </div>
           <div class="panel-body">
             <div class="rows">
                <div class="col-md-4">
-                     <div class="thumbnail">
-                         <img src="images/mexico.png"  >
-                     </div>
+                     
+                         <img class="img-circle mwh" src="img/samsung_kies.png">
+                    
                </div> 
                <div class="col-md-8">
                      <div class="thumbnail">
-                         <img src="images/tokyo.png"   >
+                          <p>
                      </div>
                 </div> 
             </div>
@@ -127,21 +111,21 @@
             <span class="glyphicon glyphicon-chevron-right blue" aria-hidden="true"></span>
           </div>
         </div>
-        <!-- 5 -->
+        <!-- 11  -->
       <div class="panel panel-primary">
           <div class="panel-heading">
-            <h3 class="panel-title">OS</h3>
+            <h3 class="panel-title">AFTER EFFECT</h3>
           </div>
           <div class="panel-body">
             <div class="rows">
                <div class="col-md-4">
-                     <div class="thumbnail">
-                         <img src="images/mexico.png"  >
-                     </div>
+                     
+                         <img class="img-circle mwh" src="img/ae.png">
+                   
                </div> 
                <div class="col-md-8">
                      <div class="thumbnail">
-                         <img src="images/tokyo.png"   >
+                          <p>
                      </div>
                 </div> 
             </div>
@@ -151,21 +135,21 @@
             <span class="glyphicon glyphicon-chevron-right blue" aria-hidden="true"></span>
           </div>
         </div>
-        <!-- 6 -->
+        <!-- 12  -->
       <div class="panel panel-primary">
           <div class="panel-heading">
-            <h3 class="panel-title">OS</h3>
+            <h3 class="panel-title">PHOTOSHOP CC</h3>
           </div>
           <div class="panel-body">
             <div class="rows">
                <div class="col-md-4">
-                     <div class="thumbnail">
-                         <img src="images/mexico.png"  >
-                     </div>
+                    
+                         <img class="img-circle mwh" src="img/photoshop.png"  >
+                     
                </div> 
                <div class="col-md-8">
                      <div class="thumbnail">
-                         <img src="images/tokyo.png"   >
+                          <p>
                      </div>
                 </div> 
             </div>
@@ -179,17 +163,18 @@
     
     <div class="panel panel-default">
           <div class="panel-body">
-             <a href="#" class="btn btn-info btn-sm">1</a>
-             <a href="#" class="btn btn-info btn-sm">2</a>
-             <a href="#" class="btn btn-info btn-sm">3</a>
+             <a href="logi1.php" class="btn btn-info btn-sm">1</a>
+             <a href="logi2.php" class="btn btn-info btn-sm active">2</a>
+             <a href="logi3.php" class="btn btn-info btn-sm">3</a>
+
           </div>
         </div>
     </div>
-    <!-- OS -->
-	  
-		<!-- jQuery -->
-		<script src="//code.jquery.com/jquery.js"></script>
-		<!-- Bootstrap JavaScript -->
-		<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-	</body>
+    <!-- 7 S -->
+    
+    <!-- 7 Query -->
+    <script src="//code.jquery.com/jquery.js"></script>
+    <!-- 7 ootstrap JavaScript -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  </body>
 </html>
